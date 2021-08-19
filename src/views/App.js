@@ -15,8 +15,10 @@ function App() {
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
       <h3>Engineering a better tomorrow today.</h3>
-      <a href="https://bonoj.github.io/" target="_blank" rel="noopener noreferrer">Technically Android</a>
       <a href="https://www.youtube.com/watch?v=qGqfT9kkUQs" target="_blank" rel="noopener noreferrer">Anatomically Human</a>
+      <br/>
+      <a href="https://bonoj.github.io/" target="_blank" rel="noopener noreferrer">Technically Android</a>
+      
     </div>
   );
 }
