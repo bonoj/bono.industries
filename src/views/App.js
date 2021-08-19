@@ -15,7 +15,7 @@ function App() {
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
       <h3>Engineering a better tomorrow today.</h3>
-      <a href="https://www.youtube.com/watch?v=qGqfT9kkUQs">The Tale of the Bastard Prince</a>
+      <a href="https://www.youtube.com/watch?v=qGqfT9kkUQs" target="_blank" rel="noopener noreferrer">The Tale of the Bastard Prince</a>
     </div>
   );
 }
