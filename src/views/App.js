@@ -19,7 +19,7 @@ function App() {
       <br/>
       <a href="https://bonoj.github.io/" target="_blank" rel="noopener noreferrer">Technically android</a>
       <br/>
-      <a href="https://docs.google.com/document/d/1pH7K4nzDKKVO1qp5eJlruTD2XYGxuj6eWpMwOjavDoU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Professionally playful</a>
+      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Professionally playful</a>
       <br/>
       <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">Personally passionate</a>
     </div>
