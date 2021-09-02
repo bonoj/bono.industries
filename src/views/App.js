@@ -15,10 +15,13 @@ function App() {
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
       <h3>Engineering a better tomorrow today.</h3>
-      <a href="https://www.youtube.com/watch?v=qGqfT9kkUQs" target="_blank" rel="noopener noreferrer" >Anatomically Human</a>
+      <a href="https://www.youtube.com/watch?v=qGqfT9kkUQs" target="_blank" rel="noopener noreferrer" >Anatomically human</a>
       <br/>
-      <a href="https://bonoj.github.io/" target="_blank" rel="noopener noreferrer">Technically Android</a>
-      
+      <a href="https://bonoj.github.io/" target="_blank" rel="noopener noreferrer">Technically android</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1pH7K4nzDKKVO1qp5eJlruTD2XYGxuj6eWpMwOjavDoU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Professionally playful</a>
+      <br/>
+      <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">Personally passionate</a>
     </div>
   );
 }
