@@ -21,7 +21,12 @@ function App() {
       <br/>
       <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Professionally playful</a>
       <br/>
-      <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">Personally passionate</a>
+      <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">Personally passionate</a>
+      <br/>
+      <br/>
+      Always,
+      <br/>
+      <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">John</a>
     </div>
   );
 }
