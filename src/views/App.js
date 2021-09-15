@@ -17,7 +17,7 @@ function App() {
       <h3>Engineering a better tomorrow today.</h3>
       <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w" target="_blank" rel="noopener noreferrer" >Anatomically human</a>
       <br/>
-      <a href="https://www.linkedin.com/in/john-bono-b33a0521a/" target="_blank" rel="noopener noreferrer">Technically AI</a>
+      <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Technically AI</a>
       <br/>
       <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Professionally playful</a>
       <br/>
