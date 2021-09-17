@@ -27,7 +27,10 @@ function App() {
       <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">Humanely</a>
       <br/>
       <a href="https://github.com/bonoj" target="_blank" rel="noopener noreferrer">For now</a>
-      <br/>
+      <br/>    
+      
+      </div>
+  );
 
       
 {/*     
@@ -46,8 +49,7 @@ function App() {
       <br/> */}
 
       {/* {first} */}
-    </div>
-  );
+
 }
 
 const titles = ["Engineering a better tomorrow today.", "Reimagining humanity.", "Connecting all the things."]
