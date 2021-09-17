@@ -26,7 +26,6 @@ function App() {
       <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">Humanely</a>
       <br/>
       <a href="https://github.com/bonoj" target="_blank" rel="noopener noreferrer">For now</a>   
-      
       </div>
   );
     }
@@ -35,7 +34,7 @@ function App() {
 // {
   /*     
       <br/>
-      <a href="https://www.oreillysirishbar.com/" target="_blank" rel="noopener noreferrer">Momentary blink</a> */}
+      <a href="https://www.oreillysirishbar.com/" target="_blank" rel="noopener noreferrer">Momentary blink</a> */
 
 
       /* <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub" target="_blank" rel="noopener noreferrer">Anatomically human</a>
