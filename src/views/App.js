@@ -15,7 +15,7 @@ function App() {
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
       <h3>Engineering a better tomorrow yesterday.</h3>
-      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Geneva Convention 2021, 1143.</a>
+      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Geneva Convention 2021, Aisle 1145</a>
       <br/>
       <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Localized pockets of fantasy</a>
       <br/>
@@ -23,9 +23,19 @@ function App() {
       <br/>
       <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Scalably</a>
       <br/>
-      <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">Humanely</a>
+      <a href="https://github.com/bonoj" target="_blank" rel="noopener noreferrer">Inexorably</a>
       <br/>
-      <a href="https://github.com/bonoj" target="_blank" rel="noopener noreferrer">For now</a>   
+      <a href="https://bonoj.github.io" target="_blank" rel="noopener noreferrer">Always</a> 
+      <br/>  
+      <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">John</a>
+      <br/>
+      <br/>
+      <br/>
+      <h3>Gen Con 2021</h3>
+      <a href="https://gooeycube.com/" target="_blank" rel="noopener noreferrer">GooeyCube</a>
+      <br/>
+      <a href="https://www.etsy.com/shop/HrothgarsHoardGames" target="_blank" rel="noopener noreferrer">Hrothgar's Hoard</a>
+      <br/>
       </div>
   );
     }
