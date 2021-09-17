@@ -14,8 +14,28 @@ function App() {
       {/* <input onChange={(e)=>setTodo(e.target.value)}/>
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
-      <h3>Engineering a better tomorrow today.</h3>
-      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w" target="_blank" rel="noopener noreferrer" >Anatomically human</a>
+      <h3>Engineering a better tomorrow yesterday.
+      </h3>
+      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Geneva Convention 2021, 1143.</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Localized pockets of fantasy</a>
+      <br/>
+      <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">Expanding</a>
+      <br/>
+      <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Scalably</a>
+      <br/>
+      <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">Humanely</a>
+      <br/>
+      <a href="https://github.com/bonoj" target="_blank" rel="noopener noreferrer">For now</a>
+      <br/>
+
+      
+{/*     
+      <br/>
+      <a href="https://www.oreillysirishbar.com/" target="_blank" rel="noopener noreferrer">Momentary blink</a> */}
+
+
+      {/* <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub" target="_blank" rel="noopener noreferrer">Anatomically human</a>
       <br/>
       <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Technically AI</a>
       <br/>
@@ -23,8 +43,8 @@ function App() {
       <br/>
       <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">Personally passionate</a>
       <br/>
-      <br/>
-      <a href="https://ultrasabers.com/" target="_blank" rel="noopener noreferrer">Link of the moment</a>
+      <br/> */}
+
       {/* {first} */}
     </div>
   );
