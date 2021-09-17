@@ -14,8 +14,7 @@ function App() {
       {/* <input onChange={(e)=>setTodo(e.target.value)}/>
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
-      <h3>Engineering a better tomorrow yesterday.
-      </h3>
+      <h3>Engineering a better tomorrow yesterday.</h3>
       <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Geneva Convention 2021, 1143.</a>
       <br/>
       <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Localized pockets of fantasy</a>
@@ -26,19 +25,20 @@ function App() {
       <br/>
       <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">Humanely</a>
       <br/>
-      <a href="https://github.com/bonoj" target="_blank" rel="noopener noreferrer">For now</a>
-      <br/>    
+      <a href="https://github.com/bonoj" target="_blank" rel="noopener noreferrer">For now</a>   
       
       </div>
   );
-
+    }
+    export default App;
       
-{/*     
+// {
+  /*     
       <br/>
       <a href="https://www.oreillysirishbar.com/" target="_blank" rel="noopener noreferrer">Momentary blink</a> */}
 
 
-      {/* <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub" target="_blank" rel="noopener noreferrer">Anatomically human</a>
+      /* <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub" target="_blank" rel="noopener noreferrer">Anatomically human</a>
       <br/>
       <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Technically AI</a>
       <br/>
@@ -46,44 +46,44 @@ function App() {
       <br/>
       <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">Personally passionate</a>
       <br/>
-      <br/> */}
+      // <br/> */
 
-      {/* {first} */}
+      // {/* {first} */}
 
-}
+// }
 
-const titles = ["Engineering a better tomorrow today.", "Reimagining humanity.", "Connecting all the things."]
-const first = <div>
-<h3>{titles[0]}</h3>
-{/* <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w" target="_blank" rel="noopener noreferrer" >Anatomically human</a> */}
-{getLink(urls[1], "Anatomically Human")}
-<br/>
-<a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Technically AI</a>
-<br/>
-<a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Professionally playful</a>
-<br/>
-<a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">Personally passionate</a>
-</div>
+// const titles = ["Engineering a better tomorrow today.", "Reimagining humanity.", "Connecting all the things."]
+// const first = <div>
+// <h3>{titles[0]}</h3>
+// {/* <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w" target="_blank" rel="noopener noreferrer" >Anatomically human</a> */}
+// {getLink(urls[1], "Anatomically Human")}
+// <br/>
+// <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Technically AI</a>
+// <br/>
+// <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Professionally playful</a>
+// <br/>
+// <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">Personally passionate</a>
+// </div>
 
-const urls = [
-  ("Towers", "https://philome.la/Ironed_Man/towers/play/index.html" /* TODO Add emojis, sometimes use them only*/),
-  ("Lutetube", "https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w"),
-  ("Minstrelgram", "https://philome.la/Ironed_Man/towers/play/index.html"),
-  ("John", "https://www.linkedin.com/in/bonoj/"),
-  ("MIARPG", "https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing")
-  ("Towers", "https://philome.la/Ironed_Man/towers/play/index.html")
-  // Github
-  // industrees.industries
+// const urls = [
+//   ("Towers", "https://philome.la/Ironed_Man/towers/play/index.html" /* TODO Add emojis, sometimes use them only*/),
+//   ("Lutetube", "https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w"),
+//   ("Minstrelgram", "https://philome.la/Ironed_Man/towers/play/index.html"),
+//   ("John", "https://www.linkedin.com/in/bonoj/"),
+//   ("MIARPG", "https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing")
+//   ("Towers", "https://philome.la/Ironed_Man/towers/play/index.html")
+//   // Github
+//   // industrees.industries
 
-  // Link of the day!
-  // Link to maxines thing
-]
+//   // Link of the day!
+//   // Link to maxines thing
+// ]
 
-function getLink(link, copy, symbol, doShowCopy) {
-  var linkText
-  if (doShowCopy) {linkText = symbol + " " + copy} else {linkText = symbol}
-  return <a href={link} target="_blank" rel="noopener noreferrer">{linkText}</a>
-}
+// function getLink(link, copy, symbol, doShowCopy) {
+//   var linkText
+//   if (doShowCopy) {linkText = symbol + " " + copy} else {linkText = symbol}
+//   return <a href={link} target="_blank" rel="noopener noreferrer">{linkText}</a>
+// }
 
 // towers - https://philome.la/Ironed_Man/towers/play/index.html
 // Spreading localized pockets of fantasy EMOJI! - Magic bubble
@@ -137,4 +137,4 @@ function getLink(link, copy, symbol, doShowCopy) {
 // Fantasy towers fall away and the fantasy melts away (only on some ships) as we launch payloads into LEO
 // We build generation ships, seeders, million year arks
 
-export default App;
+// export default App;
