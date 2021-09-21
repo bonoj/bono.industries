@@ -2,7 +2,6 @@ import React, {useState, useContext} from 'react'
 // import {Context} from "../store/appContext";
 // import logo from "../img/logo.svg";
 import "../style/App.css";
-import React from 'react';
 
 function App() {
   // const {store, actions} = useContext(Context)
