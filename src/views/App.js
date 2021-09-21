@@ -19,12 +19,11 @@ function App() {
       <br/>
       <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">A wolf and her boy</a>
       <br/>
-      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">{"Massively Inclusive & Accessible RPG"}</a>
+      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">MIARPG</a>
       <br/>
       <a href="https://vm.tiktok.com/ZMR442NfE/" target="_blank" rel="noopener noreferrer">Tick talk, tick talk</a>
       <br/>
       <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Ye olde Linked Inn</a>
-      
       </div>
   );
 }
