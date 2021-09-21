@@ -17,21 +17,15 @@ function App() {
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
       <h3>Engineering a better tomorrow yesterday.</h3>
-      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Geneva Convention 2021</a>
+      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">The wandering bard</a>
       <br/>
-      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Localized pockets of fantasy</a>
+      <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">A wolf and her boy</a>
       <br/>
-      <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">Expanding</a>
+      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">{"Massively Inclusive & Accessible RPG"}</a>
       <br/>
-      <a href="https://vm.tiktok.com/ZMR442NfE/" target="_blank" rel="noopener noreferrer">Rapidly</a>
+      <a href="https://vm.tiktok.com/ZMR442NfE/" target="_blank" rel="noopener noreferrer">Tick talk, tick talk</a>
       <br/>
-      <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Relentlessly</a>
-      <br/>
-      <a href="https://github.com/bonoj" target="_blank" rel="noopener noreferrer">Inexorably</a>
-      <br/>
-      <a href="https://bonoj.github.io/" target="_blank" rel="noopener noreferrer">Always</a> 
-      <br/>  
-      <a href="https://nomus.me/john" target="_blank" rel="noopener noreferrer">John</a>
+      <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Ye olde Linked Inn</a>
       <br/>
       <br/>
       <br/>
@@ -40,28 +34,23 @@ function App() {
       <br/>
       <a href="https://www.etsy.com/shop/HrothgarsHoardGames" target="_blank" rel="noopener noreferrer">Hrothgar's Hoard</a>
       <br/>
-      <a href="https://gooeycube.com/" target="_blank" rel="noopener noreferrer">GooeyCube</a>
-      <br/>
       <a href="https://www.davidleepancake.com/" target="_blank" rel="noopener noreferrer">David Lee Pancake</a>
       <br/>
-      <a href="https://dercoinmeister.com/" target="_blank" rel="noopener noreferrer">Game On! Travel Coin Set</a>
-      <br/>
-      <a href="https://www.enhancegaming.com/" target="_blank" rel="noopener noreferrer">Enhance Gaming</a>
-      <br/>
-      <a href="https://www.crystalcaste.com/" target="_blank" rel="noopener noreferrer">Crystal Castle</a>
-      <br/>
-      <a href="http://bowendragon1.com/" target="_blank" rel="noopener noreferrer">Bowen Dragon</a>
-      <br/>
-      <a href="https://www.norsefoundry.com/" target="_blank" rel="noopener noreferrer">Norse Foundry</a>
-      <br/>
-      <a href="https://www.gamescience.com/" target="_blank" rel="noopener noreferrer">Gamescience</a>
-      <br/>
-      <a href="https://www.gemhammer.com/" target="_blank" rel="noopener noreferrer">Gemhamer</a>
+      <a href="https://gooeycube.com/" target="_blank" rel="noopener noreferrer">GooeyCube</a>
       <br/>
       <a href="https://www.montecookgames.com/" target="_blank" rel="noopener noreferrer">Monte Cook Games</a>
       <br/>
-      <a href="http://www.sjgames.com/" target="_blank" rel="noopener noreferrer">Steve Jackson Games</a>
+      <a href="https://www.astromythos.com/" target="_blank" rel="noopener noreferrer">Astromythos</a>
       <br/>
+      <a href="https://dercoinmeister.com/" target="_blank" rel="noopener noreferrer">Game On! Travel Coin Set</a>
+      <br/>
+      <a href="https://www.gamescience.com/" target="_blank" rel="noopener noreferrer">Gamescience</a>
+      <br/>
+      <a href="https://www.norsefoundry.com/" target="_blank" rel="noopener noreferrer">Norse Foundry</a>
+      <br/>
+      <a href="https://www.gemhammer.com/" target="_blank" rel="noopener noreferrer">Gemhammer</a>
+      <br/>
+      <a href="http://www.sjgames.com/" target="_blank" rel="noopener noreferrer">Steve Jackson Games</a>
       </div>
   );
     }
