@@ -3,8 +3,6 @@ import React, {useState, useContext} from 'react'
 // import logo from "../img/logo.svg";
 import "../style/App.css";
 import React from 'react';
-import  ReactDOM  from  'react-dom';
-import {SocialMediaIconsReact} from 'social-media-icons-react';
 
 function App() {
   // const {store, actions} = useContext(Context)
@@ -26,35 +24,38 @@ function App() {
       <a href="https://vm.tiktok.com/ZMR442NfE/" target="_blank" rel="noopener noreferrer">Tick talk, tick talk</a>
       <br/>
       <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Ye olde Linked Inn</a>
-      <br/>
-      <br/>
-      <br/>
-      <h3>Gen Con 2021</h3>
-      <a href="https://ptbbc.org/" target="_blank" rel="noopener noreferrer">Play To Beat Brain Cancer</a>
-      <br/>
-      <a href="https://www.etsy.com/shop/HrothgarsHoardGames" target="_blank" rel="noopener noreferrer">Hrothgar's Hoard</a>
-      <br/>
-      <a href="https://www.davidleepancake.com/" target="_blank" rel="noopener noreferrer">David Lee Pancake</a>
-      <br/>
-      <a href="https://gooeycube.com/" target="_blank" rel="noopener noreferrer">GooeyCube</a>
-      <br/>
-      <a href="https://www.montecookgames.com/" target="_blank" rel="noopener noreferrer">Monte Cook Games</a>
-      <br/>
-      <a href="https://www.astromythos.com/" target="_blank" rel="noopener noreferrer">Astromythos</a>
-      <br/>
-      <a href="https://dercoinmeister.com/" target="_blank" rel="noopener noreferrer">Game On! Travel Coin Set</a>
-      <br/>
-      <a href="https://www.gamescience.com/" target="_blank" rel="noopener noreferrer">Gamescience</a>
-      <br/>
-      <a href="https://www.norsefoundry.com/" target="_blank" rel="noopener noreferrer">Norse Foundry</a>
-      <br/>
-      <a href="https://www.gemhammer.com/" target="_blank" rel="noopener noreferrer">Gemhammer</a>
-      <br/>
-      <a href="http://www.sjgames.com/" target="_blank" rel="noopener noreferrer">Steve Jackson Games</a>
+      
       </div>
   );
-    }
-    export default App;
+}
+
+export default App;
+
+    // <br/>
+    //   <br/>
+    //   <br/>
+    //   <h3>Gen Con 2021</h3>
+    //   <a href="https://ptbbc.org/" target="_blank" rel="noopener noreferrer">Play To Beat Brain Cancer</a>
+    //   <br/>
+    //   <a href="https://www.etsy.com/shop/HrothgarsHoardGames" target="_blank" rel="noopener noreferrer">Hrothgar's Hoard</a>
+    //   <br/>
+    //   <a href="https://www.davidleepancake.com/" target="_blank" rel="noopener noreferrer">David Lee Pancake</a>
+    //   <br/>
+    //   <a href="https://gooeycube.com/" target="_blank" rel="noopener noreferrer">GooeyCube</a>
+    //   <br/>
+    //   <a href="https://www.montecookgames.com/" target="_blank" rel="noopener noreferrer">Monte Cook Games</a>
+    //   <br/>
+    //   <a href="https://www.astromythos.com/" target="_blank" rel="noopener noreferrer">Astromythos</a>
+    //   <br/>
+    //   <a href="https://dercoinmeister.com/" target="_blank" rel="noopener noreferrer">Game On! Travel Coin Set</a>
+    //   <br/>
+    //   <a href="https://www.gamescience.com/" target="_blank" rel="noopener noreferrer">Gamescience</a>
+    //   <br/>
+    //   <a href="https://www.norsefoundry.com/" target="_blank" rel="noopener noreferrer">Norse Foundry</a>
+    //   <br/>
+    //   <a href="https://www.gemhammer.com/" target="_blank" rel="noopener noreferrer">Gemhammer</a>
+    //   <br/>
+    //   <a href="http://www.sjgames.com/" target="_blank" rel="noopener noreferrer">Steve Jackson Games</a>
 
     // function getIcons() {
     //   //return ReactDOM.render(<SocialMediaIconsReact borderColor="rgba(0,0,0,0.25)" icon="twitter" iconColor="rgba(255,255,255,1)" backgroundColor="rgba(26,166,233,1)" url="https://some-website.com/my-social-media-url" size="48" />,	document.getElementById('root'));
@@ -62,12 +63,12 @@ function App() {
 
     // You can't know what you don't know, you can only know that you don't know.
 
-    const DoseListCardBody = () => {
-      const [items, setItems] = useState(Array.from({ length: 20 }));
+    // const DoseListCardBody = () => {
+    //   const [items, setItems] = useState(Array.from({ length: 20 }));
     
-      const fetchMoreData = () => {
-        setItems(items.concat(Array.from({ length: 10 })));
-      };
+    //   const fetchMoreData = () => {
+    //     setItems(items.concat(Array.from({ length: 10 })));
+    //   };
     
       // Infinite scroll div
     //   return (
