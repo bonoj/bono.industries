@@ -29,6 +29,44 @@ function App() {
       <a href="https://vm.tiktok.com/ZMR442NfE/" target="_blank" rel="noopener noreferrer">Tick talk, tick talk</a>
       <br/>
       <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Ye olde Linked Inn</a>
+      <br/>
+      <br/>
+      <h3>Where in the world is the wandering bard?</h3>
+      <a href="https://www.gencon.com/" target="_blank" rel="noopener noreferrer">Gen Con 2021 - Indianapolis Indiana (Jones) - September sixteen to nineteen</a>
+      <br/>
+      <a href="https://www.originsgamefair.com/" target="_blank" rel="noopener noreferrer">Origins Game Fair - Columbus Ohio - September thirty to October three</a>
+      <br/>
+      <a href="https://www.newyorkcomiccon.com/en-us.html" target="_blank" rel="noopener noreferrer">New York Comic - New York City New York - October seven to ten</a>
+      <br/>
+      <a href="https://www.upenn.edu/" target="_blank" rel="noopener noreferrer">UPenn - Philadelphia Pennsylvania - October eleven to n</a>
+      <br/>
+      <a href="https://www.horno3.org/" target="_blank" rel="noopener noreferrer">Horno Tres - Monterrey Mexico - October n to n</a>
+      <br/>
+      <a href="http://tombbusters.com/" target="_blank" rel="noopener noreferrer">Stork Studios - Key West - October n to n</a>
+      <br/>
+      <a href="https://www.gameholecon.com/" target="_blank" rel="noopener noreferrer">Gamehole Con - Madison Wisconsin - October twenty one to twenty four</a>
+      <br/>
+      <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">Zeroth Heroes - Central Valley California - October twenty seven</a>
+      <br/>
+      <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">The Open Road - LA, Vegas, Dallas, Austin, Denver, Boulder - November n to n</a>
+      <br/>
+      <br/>
+      <h3>Poem of the Moment: Running</h3>
+      <p>
+        I run for miles in the burning sun<br/>
+        And when night falls, yet still I run<br/>
+        Through the cold and through the black<br/>
+        Onward now, no turning back<br/>
+        Through howling blizzards, pouring rains<br/>
+        Despite the bruises, aches, and pains<br/>
+        Through life and love, through joy and sorrow<br/>
+        Saving nothing for tomorrow<br/>
+        And if you see me, don't just smile<br/>
+        Run beside me for awhile<br/>
+        Or run for longer if you please<br/>
+        This road does not belong to me
+      </p>
+
       {/* <br/>
       <a href="TODO - ADD COMPASS WITH CITY LEVEL MAP" target="_blank" rel="noopener noreferrer">Where in the world is the wandering bard?</a> */}
       {/* <br/>
