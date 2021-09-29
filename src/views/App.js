@@ -16,39 +16,71 @@ function App() {
       <h3>Engineering a better tomorrow yesterday.</h3>
       <a href="https://twitter.com/johnlbono" target="_blank" rel="noopener noreferrer">A little bird told me</a>
       <br/>
-      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">That the bastard prince of Arioch</a>
+      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">The bastard prince of Arioch</a>
       <br/>
       <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">And a wolf and her boy</a>
       <br/>
       <a href="https://docs.google.com/document/d/1R3b6HIWKKB0fBjnERarfM2JepEGoAXUCi11tCnC6fC8/" target="_blank" rel="noopener noreferrer">And Quoth the Raven</a>
       <br/>
-      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/" target="_blank" rel="noopener noreferrer">Had come to play a game</a>
+      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/" target="_blank" rel="noopener noreferrer">Have come to play a game</a>
       <br/>
-      <a href="https://philome.la/Ironed_Man/towers/play/index.html" target="_blank" rel="noopener noreferrer">At the top of all the clocktowers</a>
+      <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">At ye olde Linked Inn</a>
+      <br/>
+      <a href="https://philome.la/Ironed_Man/towers/play/index.html" target="_blank" rel="noopener noreferrer">And at the tops of clocktowers</a>
       <br/>
       <a href="https://vm.tiktok.com/ZMR442NfE/" target="_blank" rel="noopener noreferrer">Tick talk, tick talk</a>
       <br/>
-      <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Ye olde Linked Inn</a>
-      <br/>
       <br/>
       <h3>Where in the world is the wandering bard?</h3>
-      <a href="https://www.gencon.com/" target="_blank" rel="noopener noreferrer">Gen Con 2021 - Indianapolis Indiana (Jones) - September sixteen to nineteen</a>
+      <a href="https://www.gencon.com/" target="_blank" rel="noopener noreferrer">Gen Con 2021 - Indianapolis Indiana (Jones) - September sixteen to twenty</a>
       <br/>
-      <a href="https://www.originsgamefair.com/" target="_blank" rel="noopener noreferrer">Origins Game Fair - Columbus Ohio - September thirty to October three</a>
+      <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">Zeroth Heroes - Central Valley California - September twenty one</a>
       <br/>
-      <a href="https://www.newyorkcomiccon.com/en-us.html" target="_blank" rel="noopener noreferrer">New York Comic - New York City New York - October seven to ten</a>
+      <a href="https://www.blacklotuspizza.com/" target="_blank" rel="noopener noreferrer">Black Lotus Pizza and Three Rex - Pittsburgh Pennsylvania - September twenty two to twenty nine</a>
       <br/>
-      <a href="https://www.upenn.edu/" target="_blank" rel="noopener noreferrer">UPenn - Philadelphia Pennsylvania - October eleven to n</a>
+      <a href="https://www.originsgamefair.com/" target="_blank" rel="noopener noreferrer">Origins Game Fair 2021 - Columbus Ohio - September thirty to October three</a>
       <br/>
-      <a href="https://www.horno3.org/" target="_blank" rel="noopener noreferrer">Horno Tres - Monterrey Mexico - October n to n</a>
+      <a href="https://www.newyorkcomiccon.com/en-us.html" target="_blank" rel="noopener noreferrer">Second Base and Comic Con New York 2021 - New York City New York - October four to ten</a>
       <br/>
-      <a href="http://tombbusters.com/" target="_blank" rel="noopener noreferrer">Stork Studios - Key West - October n to n</a>
+      <a href="https://www.upenn.edu/" target="_blank" rel="noopener noreferrer">UPenn - Philadelphia Pennsylvania - October eleven to fifteen</a>
       <br/>
-      <a href="https://www.gameholecon.com/" target="_blank" rel="noopener noreferrer">Gamehole Con - Madison Wisconsin - October twenty one to twenty four</a>
+      <a href="https://www.upenn.edu/" target="_blank" rel="noopener noreferrer">MIT and Faneuil Hall - Cambridge and Boston Massachusetts - October eleven to fifteen</a>
+      <br/>
+      <a href="https://www.gameholecon.com/" target="_blank" rel="noopener noreferrer">Gamehole Con 2021 - Madison Wisconsin - October twenty one to twenty four</a>
       <br/>
       <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">Zeroth Heroes - Central Valley California - October twenty seven</a>
       <br/>
+      <a href="http://www.anticapizza.ca/" target="_blank" rel="noopener noreferrer">Antica Pizza Napoletana - Kelowna British Columbia - November n to n</a>
+      <br/>
       <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">The Open Road - LA, Vegas, Dallas, Austin, Denver, Boulder - November n to n</a>
+      <br/>
+      <a href="https://www.blacklotuspizza.com/" target="_blank" rel="noopener noreferrer">Black Lotus Pizza and the Brothers Grimm - Pittsburgh Pennsylvania - November thirty to December fifth</a>
+      <br/>
+      <a href="https://www.horno3.org/" target="_blank" rel="noopener noreferrer">Horno Tres - Monterrey Mexico - December n to n</a>
+      <br/>
+      <a href="http://tombbusters.com/" target="_blank" rel="noopener noreferrer">Stork Studios - Key West - December n to n</a>
+      <br/>
+      <a href="http://tombbusters.com/" target="_blank" rel="noopener noreferrer">India - Delhi++ - January</a>
+      <br/>
+      <a href="http://tombbusters.com/" target="_blank" rel="noopener noreferrer">Turin via Torino Way - Italy, France, Spain, Portugal, UK - February++</a>
+      <br/>
+      <br/>
+      <h3>Investments</h3>
+      <a href="https://www.facebook.com/weathereddragon/" target="_blank" rel="noopener noreferrer">A seat at the table - The Weathered Dragon - Mike, Rob, and sons</a>
+      <br/>
+      <a href="https://ptbbc.org/" target="_blank" rel="noopener noreferrer">Curated curious curios for a curative cause - Play To Beat Brain Cancer - Steve and Derek</a>
+      <br/>
+      <a href="https://www.etsy.com/shop/HrothgarsHoardGames" target="_blank" rel="noopener noreferrer">Wooden wonders with weight - Hrothgar's Hoard - Beth and John</a>
+      <br/>
+      <a href="https://www.davidleepancake.com/" target="_blank" rel="noopener noreferrer">Elder dragons and the Great Old Ones - David Lee Pancake</a>
+      <br/>
+      <a href="https://www.astromythos.com/" target="_blank" rel="noopener noreferrer">A light in the darkness, the lore of pain and hope - Astromythos - Jon</a>
+      <br/>
+      <br/>
+      <h3>Systems</h3>
+      <a href="https://www.gooeycube.com/" target="_blank" rel="noopener noreferrer">GooeyCube!!!</a>
+      <br/>
+      <a href="https://www.montecookgames.com/" target="_blank" rel="noopener noreferrer">Numenara and more</a>
       <br/>
       <br/>
       <h3>Poem of the Moment: Running</h3>
