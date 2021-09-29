@@ -16,21 +16,21 @@ function App() {
       <h3>Engineering a better tomorrow yesterday.</h3>
       <a href="https://twitter.com/johnlbono" target="_blank" rel="noopener noreferrer">A little bird told me</a>
       <br/>
-      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">The bastard prince of Arioch</a>
+      <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">That the bastard prince of Arioch</a>
       <br/>
       <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">And a wolf and her boy</a>
       <br/>
-      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Had come to play a game</a>
+      <a href="https://docs.google.com/document/d/1R3b6HIWKKB0fBjnERarfM2JepEGoAXUCi11tCnC6fC8/" target="_blank" rel="noopener noreferrer">And Quoth the Raven</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1c2elXayXBWY1O4a3FfiE-P0wJWbbl_RmeOkKYPMWqY0/" target="_blank" rel="noopener noreferrer">Had come to play a game</a>
+      <br/>
+      <a href="https://philome.la/Ironed_Man/towers/play/index.html" target="_blank" rel="noopener noreferrer">At the top of all the clocktowers</a>
       <br/>
       <a href="https://vm.tiktok.com/ZMR442NfE/" target="_blank" rel="noopener noreferrer">Tick talk, tick talk</a>
-      <br/>
-      <a href="https://philome.la/Ironed_Man/towers/play/index.html" target="_blank" rel="noopener noreferrer">A momentary blink</a>
       <br/>
       <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Ye olde Linked Inn</a>
       {/* <br/>
       <a href="TODO - ADD COMPASS WITH CITY LEVEL MAP" target="_blank" rel="noopener noreferrer">Where in the world is the wandering bard?</a> */}
-      {/* <br/>
-      <a href="TODO - ADD QUOTH LINK" target="_blank" rel="noopener noreferrer">Quoth the Raven</a> */}
       {/* <br/>
       <a href="TODO - ADD BONO PRO BONO LINK" target="_blank" rel="noopener noreferrer">Bono pro bono</a> */}
       </div>
