@@ -83,7 +83,7 @@ function App() {
       <a href="https://www.montecookgames.com/" target="_blank" rel="noopener noreferrer">Numenara and so much more - Monte Cook</a>
       <br/>
       <br/>
-      <h3>Poem of the Moment: Running</h3>
+      <h3>Poem of the Moment: Damocles</h3>
       <p>
         If I should die before I wake<br/>
         I pray the gods my wings to take<br/>
