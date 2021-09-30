@@ -52,7 +52,7 @@ function App() {
       <br/>
       <a href="http://www.anticapizza.ca/" target="_blank" rel="noopener noreferrer">Antica Pizza Napoletana - Kelowna British Columbia - November n to n</a>
       <br/>
-      <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">The Open Road - LA, Vegas, Dallas, Austin, Denver, Boulder - November n to n</a>
+      <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">The Open Road - LA, Vegas, The Grand Canyon, Dallas, Austin, Denver, Boulder, Creststone, Utah? - November n to n</a>
       <br/>
       <a href="https://www.blacklotuspizza.com/" target="_blank" rel="noopener noreferrer">Black Lotus Pizza and the Brothers Grimm - Pittsburgh Pennsylvania - November thirty to December fifth</a>
       <br/>
@@ -78,13 +78,31 @@ function App() {
       <br/>
       <br/>
       <h3>Systems</h3>
-      <a href="https://www.gooeycube.com/" target="_blank" rel="noopener noreferrer">GooeyCube!!!</a>
+      <a href="https://www.gooeycube.com/" target="_blank" rel="noopener noreferrer">GooeyCube!!! - Alphineus, Corey, James... and so many more</a>
       <br/>
-      <a href="https://www.montecookgames.com/" target="_blank" rel="noopener noreferrer">Numenara and more</a>
+      <a href="https://www.montecookgames.com/" target="_blank" rel="noopener noreferrer">Numenara and so much more - Monte Cook</a>
       <br/>
       <br/>
       <h3>Poem of the Moment: Running</h3>
       <p>
+        If I should die before I wake<br/>
+        I pray the gods my wings to take<br/>
+        <br/>
+        For I remember fluttering<br/>
+        Then flailing blindly, floundering<br/>
+        And sinking deeper, wondering<br/>
+        Whether spiders waste time savouring<br/>
+        <br/>
+        Caught dangling now in this silken thread<br/>
+        With the swords of ancients overhead<br/>
+        I resign myself and I hang my head<br/>
+        Yet I hang here still and I am not dead<br/>
+        <br/>
+        So if I should fly again someday<br/>
+        I pray the gods to let me prey<br/>
+      </p>
+      
+      {/* <p>
         I run for miles in the burning sun<br/>
         And when night falls, yet still I run<br/>
         Through the cold and through the black<br/>
@@ -97,7 +115,7 @@ function App() {
         Run beside me for awhile<br/>
         Or run for longer if you please<br/>
         This road does not belong to me
-      </p>
+      </p> */}
 
       {/* <br/>
       <a href="TODO - ADD COMPASS WITH CITY LEVEL MAP" target="_blank" rel="noopener noreferrer">Where in the world is the wandering bard?</a> */}
