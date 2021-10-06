@@ -34,21 +34,23 @@ function App() {
       <h3>Where in the world is the wandering bard?</h3>
       <a href="https://www.gencon.com/" target="_blank" rel="noopener noreferrer">Gen Con 2021 - Indianapolis Indiana (Jones) - September sixteen to twenty</a>
       <br/>
-      <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">Zeroth Heroes - Central Valley California - September twenty one</a>
+      <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">The Daughts - Central Valley California - September twenty one</a>
       <br/>
       <a href="https://www.blacklotuspizza.com/" target="_blank" rel="noopener noreferrer">Black Lotus Pizza and Three Rex - Pittsburgh Pennsylvania - September twenty two to twenty nine</a>
       <br/>
-      <a href="https://www.originsgamefair.com/" target="_blank" rel="noopener noreferrer">Origins Game Fair 2021 - Columbus Ohio - September thirty to October three</a>
+      <a href="https://www.originsgamefair.com/" target="_blank" rel="noopener noreferrer">Origins Game Fair 2021 - Columbus Ohio - September thirty to October six</a>
       <br/>
-      <a href="https://www.newyorkcomiccon.com/en-us.html" target="_blank" rel="noopener noreferrer">Second Base and Comic Con New York 2021 - New York City New York - October four to ten</a>
+      <a href="https://www.blacklotuspizza.com/" target="_blank" rel="noopener noreferrer">Mi famiglia - Pittsburgh Pennsylvania - October six</a>
       <br/>
-      <a href="https://www.upenn.edu/" target="_blank" rel="noopener noreferrer">UPenn - Philadelphia Pennsylvania - October eleven to fifteen</a>
+      <a href="https://www.newyorkcomiccon.com/en-us.html" target="_blank" rel="noopener noreferrer">Second Base and Comic Con New York 2021 - New York City New York - October seven to ten</a>
       <br/>
-      <a href="https://www.upenn.edu/" target="_blank" rel="noopener noreferrer">MIT and Faneuil Hall - Cambridge and Boston Massachusetts - October eleven to fifteen</a>
+      <a href="https://www.upenn.edu/" target="_blank" rel="noopener noreferrer">UPenn - Philadelphia Pennsylvania - October n to n</a>
+      <br/>
+      <a href="https://www.mit.edu/" target="_blank" rel="noopener noreferrer">MIT and Faneuil Hall - Cambridge and Boston Massachusetts - October eleven to fifteen</a>
       <br/>
       <a href="https://www.gameholecon.com/" target="_blank" rel="noopener noreferrer">Gamehole Con 2021 - Madison Wisconsin - October twenty one to twenty four</a>
       <br/>
-      <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">Zeroth Heroes - Central Valley California - October twenty seven</a>
+      <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">The Daughts - Central Valley California - October twenty seven</a>
       <br/>
       <a href="http://www.anticapizza.ca/" target="_blank" rel="noopener noreferrer">Antica Pizza Napoletana - Kelowna British Columbia - November n to n</a>
       <br/>
@@ -101,8 +103,12 @@ function App() {
         So if I should fly again someday<br/>
         I pray the gods to let me prey<br/>
       </p>
-      
-      {/* <p>
+
+      <br/>
+      <h3>The Archive: Chronicles for the Aeons</h3>
+      <p>
+        Running<br/>
+        <br/>
         I run for miles in the burning sun<br/>
         And when night falls, yet still I run<br/>
         Through the cold and through the black<br/>
@@ -115,7 +121,7 @@ function App() {
         Run beside me for awhile<br/>
         Or run for longer if you please<br/>
         This road does not belong to me
-      </p> */}
+      </p>
 
       {/* <br/>
       <a href="TODO - ADD COMPASS WITH CITY LEVEL MAP" target="_blank" rel="noopener noreferrer">Where in the world is the wandering bard?</a> */}
