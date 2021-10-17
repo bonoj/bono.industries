@@ -31,8 +31,9 @@ function App() {
       <a href="https://vm.tiktok.com/ZMR442NfE/" target="_blank" rel="noopener noreferrer">Tick talk, tick talk</a>
       <br/>
       <br/>
-      <h3>Where in the world is the wandering bard?</h3>
-      <a href="https://www.gencon.com/" target="_blank" rel="noopener noreferrer">Gen Con 2021 - Indianapolis Indiana (Jones) - September sixteen to twenty</a>
+      {/* <h3>Where in the world is the wandering bard?</h3>
+      <a href="https://twitter.com/johnlbono" target="_blank" rel="noopener noreferrer">A little bird told me</a> */}
+      {/* <a href="https://www.gencon.com/" target="_blank" rel="noopener noreferrer">Gen Con 2021 - Indianapolis Indiana (Jones) - September sixteen to twenty</a>
       <br/>
       <a href="https://bono.industries" target="_blank" rel="noopener noreferrer">The Daughts - Central Valley California - September twenty one</a>
       <br/>
@@ -66,8 +67,8 @@ function App() {
       <br/>
       <a href="http://tombbusters.com/" target="_blank" rel="noopener noreferrer">Turin via Torino Way - Italy, France, Spain, Portugal, UK - February++</a>
       <br/>
-      <br/>
-      <h3>Investments</h3>
+      <br/> */}
+      {/* <h3>Investments</h3>
       <a href="https://www.facebook.com/weathereddragon/" target="_blank" rel="noopener noreferrer">A seat at the table - The Weathered Dragon - Mike, Rob, and sons</a>
       <br/>
       <a href="https://ptbbc.org/" target="_blank" rel="noopener noreferrer">Curated curious curios for a curative cause - Play To Beat Brain Cancer - Steve and Derek</a>
@@ -84,9 +85,22 @@ function App() {
       <br/>
       <a href="https://www.montecookgames.com/" target="_blank" rel="noopener noreferrer">Numenara and so much more - Monte Cook</a>
       <br/>
-      <br/>
+      <br/> */}
+
       <h3>Poem of the Moment: Damocles</h3>
       <p>
+      Awash beneath the halo of a gently rising sun<br/>
+Swaddled tight in silken cloth and named the chosen one<br/>
+They promised me a kingdom over vast and boundless lands<br/>
+Then bade me kneel to higher kings and kiss their offered hands<br/>
+
+But I found the kings all wanting and their lords to be bankrupt<br/>
+They offered up salvation though their souls were all corrupt<br/>
+So now I pluck their hallowed crowns as they wallow in their dread<br/>
+And I hunt them all down one by one where the angels fear to tread
+</p>
+
+      {/* <p>
         If I should die before I wake<br/>
         I pray the gods my wings to take<br/>
         <br/>
@@ -102,9 +116,9 @@ function App() {
         <br/>
         So if I should fly again someday<br/>
         I pray the gods to let me prey<br/>
-      </p>
+      </p> */}
 
-      <br/>
+      {/* <br/>
       <h3>The Archive: Chronicles for the Aeons</h3>
       <p>
         Running<br/>
@@ -121,7 +135,7 @@ function App() {
         Run beside me for awhile<br/>
         Or run for longer if you please<br/>
         This road does not belong to me
-      </p>
+      </p> */}
 
       {/* <br/>
       <a href="TODO - ADD COMPASS WITH CITY LEVEL MAP" target="_blank" rel="noopener noreferrer">Where in the world is the wandering bard?</a> */}
