@@ -87,13 +87,13 @@ function App() {
       <br/>
       <br/> */}
 
-      <h3>Poem of the Moment: Damocles</h3>
+      <h3>Poem of the Moment</h3>
       <p>
       Awash beneath the halo of a gently rising sun<br/>
 Swaddled tight in silken cloth and named the chosen one<br/>
 They promised me a kingdom over vast and boundless lands<br/>
 Then bade me kneel to higher kings and kiss their offered hands<br/>
-
+<br/>
 But I found the kings all wanting and their lords to be bankrupt<br/>
 They offered up salvation though their souls were all corrupt<br/>
 So now I pluck their hallowed crowns as they wallow in their dread<br/>
