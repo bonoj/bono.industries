@@ -26,7 +26,7 @@ function App() {
       <br/>
       <a href="https://philome.la/Ironed_Man/towers/play/index.html" target="_blank" rel="noopener noreferrer">At the tops of towers</a>
       <br/>
-      <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">Find us</a>
+      <a href="https://www.linkedin.com/in/bonoj/" target="_blank" rel="noopener noreferrer">In a chain of linked inns</a>
       {/* <br/>
       <a href="https://vm.tiktok.com/ZMR442NfE/" target="_blank" rel="noopener noreferrer">Tick talk, tick talk</a> */}
       <br/>
