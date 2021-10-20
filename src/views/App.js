@@ -88,7 +88,8 @@ function App() {
       <br/> */}
 
       <h3>Poem of the Moment</h3>
-      <p style={{width: 350, display: 'flex',  justifyContent:'center', alignItems:'center'}}>
+      <p style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
+        <p style={{width: 350}}>
       Awash beneath the halo of a gently rising sun<br/>
 Swaddled tight in silken cloth and named the chosen one<br/>
 They promised me a kingdom over vast and boundless lands<br/>
@@ -98,6 +99,7 @@ But I found the kings all wanting and their lords to be bankrupt<br/>
 They offered up salvation though their souls were all corrupt<br/>
 So now I pluck their hallowed crowns as they wallow in their dread<br/>
 And I hunt them all down one by one where the angels fear to tread
+</p>
 </p>
 
       {/* <p>
