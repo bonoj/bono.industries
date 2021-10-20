@@ -88,7 +88,7 @@ function App() {
       <br/> */}
 
       <h3>Poem of the Moment</h3>
-      <p>
+      <p style={{width: 300}}>
       Awash beneath the halo of a gently rising sun<br/>
 Swaddled tight in silken cloth and named the chosen one<br/>
 They promised me a kingdom over vast and boundless lands<br/>
