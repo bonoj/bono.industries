@@ -176,7 +176,6 @@ I walked on through the years
 <br/>
 <br/>
 <br/>
-<br/>
 
       {/* <h3>Crowns</h3>
       <p style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
