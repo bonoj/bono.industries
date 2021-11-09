@@ -9,7 +9,7 @@ function App() {
   // const [todoList, setTodoList] =useState([])
   // console.log("store", store.todoList)
   return (
-    <div className="App" style={{ backgroundImage: "url(/bgSkullR.jpg)" }}>
+    <div className="App" style={{ backgroundImage: "url(/bgSkullR.gif)" }}>
       {/* <input onChange={(e)=>setTodo(e.target.value)}/>
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
