@@ -9,7 +9,7 @@ function App() {
   // const [todoList, setTodoList] =useState([])
   // console.log("store", store.todoList)
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundImage: "url(/bg.jpg)" }}>
       {/* <input onChange={(e)=>setTodo(e.target.value)}/>
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
@@ -18,7 +18,9 @@ function App() {
       <br/>
       <a href="https://www.youtube.com/channel/UCnFN3vwlQABjNk26qKy3e2w?sub_confirmation=1" target="_blank" rel="noopener noreferrer">The bastard prince of Arioch</a>
       <br/> */}
-      <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">Do you trust me?</a>
+      {/* <a href="https://www.instagram.com/awolfandherboy/" target="_blank" rel="noopener noreferrer">A wolf and her boy.</a>
+      <br> */}
+      {/* <a href="https://www.instagram.com/thebastardprince/" target="_blank" rel="noopener noreferrer">Find me.</a> */}
       {/* <br/>
       <a href="https://docs.google.com/document/d/1R3b6HIWKKB0fBjnERarfM2JepEGoAXUCi11tCnC6fC8/" target="_blank" rel="noopener noreferrer">And Quoth the Raven</a> */}
       {/* <br/>
@@ -87,7 +89,92 @@ function App() {
       <br/>
       <br/> */}
 
-      {/* <h3>Poem of the Moment</h3>
+<h3>Two Roads</h3>
+      <p style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
+        <p style={{width: 350, color: 'white'}}>
+Two roads diverged in a yellow wood<br/>
+Two roads that both seemed fair<br/>
+Both roads were wide and both well trod<br/>
+And so I tarried there<br/>
+<br/>
+One road, I knew, led past a town<br/>
+The other to the sea<br/>
+But which was which, I could not say<br/>
+And both appealed to me<br/>
+<br/>
+I had the urge to walk both roads<br/>
+To wind round every bend<br/>
+Yet in one day there was not time<br/>
+To see each to the end<br/>
+<br/>
+A lesser man might flip a coin<br/>
+And trust to Fate the choice<br/>
+But what are days or forks in roads<br/>
+When Fate must heed your voice?<br/>
+<br/>
+And so I stood and raised my arms<br/>
+My fingers clawed the sky<br/>
+I threw my head back, laughed aloud<br/>
+A fierce glint in my eye<br/>
+<br/>
+I spoke the words and for a time<br/>
+My hands outshone the sun<br/>
+I brought my hands together then<br/>
+Where once two roads, now one<br/>
+<br/>
+And laughing still, I walked that road<br/>
+Quite smug and satisfied<br/>
+Until, at last, I reached the end<br/>
+And there my laughter died<br/>
+<br/>
+For at the end, a grisly sight<br/>
+The wreckage of a town<br/>
+Its villagers all torn apart<br/>
+Their limbs all strewn around<br/>
+<br/>
+And just beyond this, blue and vast<br/>
+There stood the shining sea<br/>
+Its waves lapped gently at the dead<br/>
+In quiet mockery<br/>
+<br/>
+I knew at once the blame was mine<br/>
+They'd died because of me<br/>
+Their town had lain between the roads<br/>
+I'd merged so thoughtlessly<br/>
+<br/>
+I sat down hard upon the earth<br/>
+And gave the matter thought<br/>
+I sought a spell that might undo<br/>
+The carnage that I'd wrought<br/>
+<br/>
+The healing arts would not avail<br/>
+One cannot heal the dead<br/>
+Nor would the arts of binding serve<br/>
+Their souls had long since fled<br/>
+<br/>
+And if I raised them from the dead<br/>
+With necromantic lore<br/>
+They'd just be bodies, soulless flesh<br/>
+Husks and nothing more<br/>
+<br/>
+And then a thought occurred to me<br/>
+That had not occurred at first<br/>
+A simple spell of Rewind Time<br/>
+And time would be reversed<br/>
+<br/>
+And so I reached into my pack<br/>
+Withdrew that ancient tome<br/>
+But as I peeled the cover back<br/>
+I closed it just as soon<br/>
+<br/>
+I stood up hard upon the earth<br/>
+And I wiped away the tears<br/>
+And with this new acceptance<br/>
+I walked on through the years
+</p>
+</p>
+
+      {/* <h3>Crowns</h3>
       <p style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
         <p style={{width: 350}}>
       Awash beneath the halo of a gently rising sun<br/>
