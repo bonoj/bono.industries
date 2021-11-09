@@ -9,7 +9,7 @@ function App() {
   // const [todoList, setTodoList] =useState([])
   // console.log("store", store.todoList)
   return (
-    <div className="App" style={{ backgroundImage: "url(/bgStar.jpg)" }}>
+    <div className="App" style={{ backgroundImage: "url(/bgSkullR.gif)" }}>
       {/* <input onChange={(e)=>setTodo(e.target.value)}/>
       <button onClick={()=> actions.addTodo(todo)}>Add</button>
       {store.todoList.map((e, index)=><TodoList todo={e} key={index}/>)} */}
@@ -89,7 +89,7 @@ function App() {
       <br/>
       <br/> */}
 
-<h3>Two Roads style={{color: 'white'}}</h3>
+<h3 style={{width: 350, color: 'white'}}>Two Roads </h3>
       <p style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
         <p style={{width: 350, color: 'white'}}>
 Two roads diverged in a yellow wood<br/>
@@ -173,9 +173,6 @@ And with this new acceptance<br/>
 I walked on through the years
 </p>
 </p>
-<br/>
-<br/>
-
 
       {/* <h3>Crowns</h3>
       <p style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
