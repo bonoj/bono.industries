@@ -89,7 +89,7 @@ function App() {
       <br/>
       <br/> */}
 
-<h3 style={{width: 350, color: 'white'}}>Two Roads </h3>
+<h3 style={{justifyContent:'center', alignItems:'center', color: 'white'}}>Two Roads </h3>
       <p style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
         <p style={{width: 350, color: 'white'}}>
 Two roads diverged in a yellow wood<br/>
@@ -173,6 +173,10 @@ And with this new acceptance<br/>
 I walked on through the years
 </p>
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
 
       {/* <h3>Crowns</h3>
       <p style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
